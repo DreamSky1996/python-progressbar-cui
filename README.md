@@ -1,11 +1,13 @@
 ## Python Progressbar
 
-run command
+![DEMO IMAGE](https://github.com/DreamSky1996/python-progressbar-cui/blob/master/1.gif | width=100)
+
+# run command
 ```
 $ python3 progressbar.py
 ```
 
-Python CODE
+# Python CODE
 ```
 def printProgressBar (iteration, total, prefix = '', suffix = '', decimals = 1, length = 100, fill = '█', printEnd = "\r"):
 	"""
@@ -30,4 +32,3 @@ def printProgressBar (iteration, total, prefix = '', suffix = '', decimals = 1, 
 
 ```
 
-![DEMO IMAGE](https://github.com/DreamSky1996/python-progressbar-cui/blob/master/1.gif)
